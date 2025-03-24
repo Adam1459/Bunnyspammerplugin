@@ -1,1 +1,1 @@
-# Bunnyspammerplugin
+# spammer

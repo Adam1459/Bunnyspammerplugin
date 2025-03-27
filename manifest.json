@@ -1,0 +1,7 @@
+{
+    "name": "Spammer",
+    "description": "A plugin that spams messages a limited number of times.",
+    "version": "1.0.0",
+    "author": "Adam1459_",
+    "entry": "spam.js"
+}
